@@ -1,0 +1,22 @@
+body{
+    background-image: url(background.jpg);
+}
+
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+    background: #FFD23F;
+    color: mediumseagreen;
+    font-family: sans-serif;
+}
+.card-header{
+    background-color: #FFD23F;
+}
+
+.card-body{
+    background: seagreen;
+}
